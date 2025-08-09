@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>247</ID>
+      <Description>"Made by S1lly"</Description>
+      <Color>0000FF</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>246</ID>
+          <Description>"Local Name (MUST BE 15 CHARS LONG)"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>FDEC8E</Color>
+          <VariableType>String</VariableType>
+          <Length>15</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"RainbowSix.exe"+04797D70</Address>
+          <Offsets>
+            <Offset>950</Offset>
+            <Offset>118</Offset>
+            <Offset>30</Offset>
+            <Offset>48</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+            <Offset>138</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
